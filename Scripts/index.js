@@ -8,5 +8,5 @@ function init() {
 }
 
 function onHelloBtnClicked() {
-    document.getElementById("message").innerHTML = "Hi there!";
+    document.getElementById("messagePara").innerHTML = "Hi there!";
 }
